@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: monospace;
+    background: #c1c8f4;
+  }
+
+h1 {
+    text-align: center;
+  }
+
+img {
+    height: 300px;
+    border-radius: 3rem;
+}
+
+#dropdown-div {
+    text-align: center;
+}
+
+#cocktail-names {
+    margin-left: 50px;
+}
+
+li {
+  list-style: none;
+
+}
